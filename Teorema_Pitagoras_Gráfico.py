@@ -111,3 +111,4 @@ demostracion_teoremaPitagoras()
 #lados=random.randrange(3, 10)
 #poligono_regular(lados, 80, random.randrange(-400, 200), random.randrange(-400, 200), 'red')
 
+
