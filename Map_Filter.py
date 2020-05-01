@@ -2,6 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Mapping and Filtering
+
 Map: just an accumulation pattern which contains every item of a list or
 every *transformed* item of a list (for instance, each_item *2) . But all of them.
 Filtering: similarly to mapping, it cointains items from a list. There item are
